@@ -3,6 +3,7 @@
 #-------------------------------------------------*****************************-----------------------------------------
 
 	# 1. Assuming the most recent month is the current month
+	# 2. "FINISHED" RECEIPT STATUS ARE THE ONES THAT ARE OF INTEREST
 
 	WITH TOP_BRANDS_CURRENT_MONTH AS
 	(
